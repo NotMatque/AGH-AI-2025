@@ -1,0 +1,54 @@
+# Projekt na zaliczenie z Podstaw Sztucznej Inteligencji 24/25
+## Kluczowe informacje
+### Tutoriale
+- [Jak wymyślimy z jakich technologii będziemy korzystać to tu będą linki do odpowiednich tutoriali :)]()
+### Dane
+- [Jak wymyślimy z jakich danych będziemy korzystać to tu będzie do nich link :)]()
+### Pozostałe linki
+- [Jak nazywać commity](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13)
+- [Jak byś ocenił(a) stan projektu?](https://www.youtube.com/watch?v=iMmItLCZXv8)
+## Kamienie milowe
+### 1. **Określenie tematu i celu projektu, analiza wymagań**
+- **Opis:** Zdefiniowanie celu projektu, zakresu, oraz wymaganych zasobów do
+wdrożenia AI. Określenie problemu, który ma zostać rozwiązany przy użyciu
+sztucznej inteligencji oraz zebranie wymagań (np. wydajność, skalowalność,
+bezpieczeństwo).
+- **Oczekiwany wynik:** Jasno określony cel projektu, dokumentacja wymagań.
+### 2. **Zbiór danych i ich przygotowanie**
+- **Opis:** Zbieranie, czyszczenie i wstępna analiza danych, które będą wykorzystane
+do treningu modeli AI. Może to obejmować pozyskanie danych z różnych źródeł,
+normalizację, usuwanie brakujących lub błędnych danych oraz ich
+transformację.
+- **Oczekiwany wynik:** Przygotowany zestaw danych, gotowy do wykorzystania w
+procesie uczenia maszynowego.
+### 3. **Wybór i implementacja modelu AI**
+- **Opis:** Wybór odpowiedniego algorytmu AI oraz implementacja modelu. Może to
+obejmować prototypowanie różnych podejść i testowanie ich wydajności na
+przygotowanych danych.
+- **Oczekiwany wynik:** Zbudowany i przetestowany model AI, gotowy do oceny
+### 4. **Ocena wyników modelu i optymalizacja**
+- **Opis:** Dobór metryk. Testowanie modelu na zestawie danych testowych w celu
+oceny jego dokładności, wydajności, oraz ogólnych wyników. Optymalizacja
+modelu np. przez dostosowanie hiperparametrów, selekcję cech lub poprawę
+jakości danych.
+- **Oczekiwany wynik:** Zoptymalizowany model AI osiągający wymagane parametry
+wydajności.
+### 5. **Wdrożenie modelu i monitorowanie**
+- **Opis:** Przeniesienie modelu do środowiska produkcyjnego i integracja z
+otoczeniem. Ustalenie mechanizmów monitorowania.
+- **Oczekiwany wynik:** Zaimplementowany i uruchomiony system z AI w
+konkretnym środowisku.
+### Dodatkowe informacje dotyczące kamieni milowych
+- Kamienie milowe są oceniane 0-1, na zajęciach należy zaprezentować raport z
+realizacji kamienia milowego, te raporty złączone ze sobą na koniec będą stanowiły
+raport z projektu.
+- Ocena z projektu wynika z sumy punktów z kamieni milowych. Konieczne jest również
+uzyskanie pozytywnej oceny z prezentacji projektu (kolokwium ustnego). Ocena
+końcowa z ćwiczeń jest średnią z ocen za realizację projektu (jedna ocena wynikająca z
+ocen za kamienie milowe) oraz jego prezentacji.
+- Prezentacja ma być zwięzłym podsumowaniem projektu
+- Minimum **50%** obecności na zajęciach jest warunkiem koniecznym do zaliczenia
+ćwiczeń.
+- Możliwe jest **wcześniejsze** oddanie projektu.
+- Opóźnienie oddania kamienia milowego powoduje obniżenie oceny stosownie do
+opóźnienia. 
