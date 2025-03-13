@@ -1,7 +1,16 @@
-# Projekt na zaliczenie z Podstaw Sztucznej Inteligencji 24/25
+# Rozpoznawanie i zliczanie pojazdów w celu analizy zatłoczenia na drodze
 ## Kluczowe informacje
-### Tutoriale
-- [Jak wymyślimy z jakich technologii będziemy korzystać to tu będą linki do odpowiednich tutoriali :)]()
+### Zamysł na projekt
+Końcowym celem tego projektu jest stworzenie modelu AI, który na podstawie filmu - nagrania z ulicy, określić ilość pojazów która się po niej poruszała.
+
+Projekt stworzony w ramach kursu na uczelni **nie musi** być jedynie na zaliczenie ;P
+### Wykorzystane narzędzia
+#### 1. OpenCV
+- [Dokumentacja](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
+- [Kurs na opencv.org](https://opencv.org/university/free-opencv-course/?utm_source=opcv&utm_medium=menu&utm_campaign=obc) $\leftarrow$ to jest ciekawe
+- [GeeksForGeeks](https://www.geeksforgeeks.org/opencv-python-tutorial/)
+#### 2. YOLO (You only look once)
+- [Strona główna](https://pjreddie.com/darknet/yolo/)
 ### Dane
 - [Jak wymyślimy z jakich danych będziemy korzystać to tu będzie do nich link :)]()
 ### Pozostałe linki
