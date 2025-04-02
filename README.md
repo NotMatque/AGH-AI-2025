@@ -12,7 +12,20 @@ Projekt stworzony w ramach kursu na uczelni **nie musi** być jedynie na zalicze
 #### 2. YOLO (You only look once)
 - [Strona główna](https://pjreddie.com/darknet/yolo/)
 ### Dane
-- [Zestaw 1](https://www.kaggle.com/datasets/amitkumargurjar/car-detection-and-tracking-dataset)
+- **Zestaw 1**: [car-detection-and-tracking-dataset](https://www.kaggle.com/datasets/amitkumargurjar/car-detection-and-tracking-dataset)\
+**Cechy**:\
+**+** Prosty, szybki\
+**-** Mały 399 zdjęć
+
+- **Zestaw 2**: [car-detection-dataset](https://www.kaggle.com/datasets/seyeon040768/car-detection-dataset/data)\
+**Cechy**:\
+**+** Duży (16k zdjęć), na każdym zdjęciu dokładnie widać pojazd\
+**-** Brak pustej przestrzeni, na każdym zdjęciu znajduje się pojaz, zdjęcia pozowane -> nie z drogi
+
+- Zestaw 3: [car-detection](https://www.kaggle.com/datasets/abdallahwagih/cars-detection)\
+**Cechy**:\
+**+** Zróżnicowane zdjęcia, pojazdy w prawdziwym życiu
+**-** Mały (126 zdjęć), różne klasy (nie tylko samochody)
 ### Pozostałe linki
 - [Jak nazywać commity](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13)
 - [Jak byś ocenił(a) stan projektu?](https://www.youtube.com/watch?v=iMmItLCZXv8)
