@@ -12,7 +12,7 @@ Projekt stworzony w ramach kursu na uczelni **nie musi** być jedynie na zalicze
 #### 2. YOLO (You only look once)
 - [Strona główna](https://pjreddie.com/darknet/yolo/)
 ### Dane
-- [Jak wymyślimy z jakich danych będziemy korzystać to tu będzie do nich link :)]()
+- [Zestaw 1](https://www.kaggle.com/datasets/amitkumargurjar/car-detection-and-tracking-dataset)
 ### Pozostałe linki
 - [Jak nazywać commity](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13)
 - [Jak byś ocenił(a) stan projektu?](https://www.youtube.com/watch?v=iMmItLCZXv8)
