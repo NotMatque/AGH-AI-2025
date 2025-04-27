@@ -1,0 +1,5 @@
+train: C:/Users/Mateusz/PycharmProjects/AGH-AI-2025/data/train/images
+val: C:/Users/Mateusz/PycharmProjects/AGH-AI-2025/data/test/images
+
+nc: 1
+names: ['car']

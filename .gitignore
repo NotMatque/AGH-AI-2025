@@ -185,5 +185,8 @@ fabric.properties
 .idea
 
 # Dane dla modelu
-data/train
-data/val
+data/test
+date/train
+data/val*
+
+runs/
