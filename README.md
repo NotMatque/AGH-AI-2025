@@ -7,10 +7,13 @@ Projekt stworzony w ramach kursu na uczelni **nie musi** być jedynie na zalicze
 ### Wykorzystane narzędzia
 #### 1. OpenCV
 - [Dokumentacja](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
-- [Kurs na opencv.org](https://opencv.org/university/free-opencv-course/?utm_source=opcv&utm_medium=menu&utm_campaign=obc) $\leftarrow$ to jest ciekawe
+- [Kurs na opencv.org](https://opencv.org/university/free-opencv-course/?utm_source=opcv&utm_medium=menu&utm_campaign=obc) <- to jest ciekawe
 - [GeeksForGeeks](https://www.geeksforgeeks.org/opencv-python-tutorial/)
 #### 2. YOLO (You only look once)
-- [Strona główna](https://pjreddie.com/darknet/yolo/)
+- [Opis v3](https://pjreddie.com/darknet/yolo/)
+- [Link do GitHuba Ultralytics](https://github.com/ultralytics/ultralytics)
+#### 3. ChatGPT
+- [Najlepszy i najgorszy współpracownik w historii](https://chatgpt.com/)
 ### Dane
 - **Zestaw 1**: [car-detection-and-tracking-dataset](https://www.kaggle.com/datasets/amitkumargurjar/car-detection-and-tracking-dataset)\
 **Cechy**:\
@@ -24,8 +27,12 @@ Projekt stworzony w ramach kursu na uczelni **nie musi** być jedynie na zalicze
 
 - Zestaw 3: [car-detection](https://www.kaggle.com/datasets/abdallahwagih/cars-detection)\
 **Cechy**:\
-**+** Zróżnicowane zdjęcia, pojazdy w prawdziwym życiu
+**+** Zróżnicowane zdjęcia, pojazdy w prawdziwym życiu\
 **-** Mały (126 zdjęć), różne klasy (nie tylko samochody)
+
+### Szkolenie modelu AI
+Wybrany model był szkolony na podstawie konfiguracji `yolov8n.yaml` stworzonej przez _Ultralytics_. Dokładne dodefiniowanie naszego modelu znajduje się w pliku [dataset.yaml](dataset.yaml).
+
 ### Pozostałe linki
 - [Jak nazywać commity](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13)
 - [Jak byś ocenił(a) stan projektu?](https://www.youtube.com/watch?v=iMmItLCZXv8)
