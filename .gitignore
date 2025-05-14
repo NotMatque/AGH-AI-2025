@@ -186,7 +186,8 @@ fabric.properties
 
 # Dane dla modelu
 data/test
-date/train
+data/train
 data/val*
+data/random-Gara-pics
 
 runs/
